@@ -1,0 +1,16 @@
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.exe
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.deps.json
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.dll
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\ref\Series.dll
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\bin\Debug\net5.0\Series.pdb
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.dll
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\ref\Series.dll
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.pdb
+D:\Projeto\Beca_Santander\DOTNET\workspace\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
